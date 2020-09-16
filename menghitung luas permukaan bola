@@ -1,0 +1,15 @@
+Cara menghitung luas permukaan bola
+Contoh : Diameter sebuah bola adalah 14 cm
+
+Algoritma :
+1. Mendeklarasikan LuasPermukaan, Diameter, pi
+2. Masukkan Diameter = 14, pi = 22/7
+3. Menghitung LuasPermukaan = 4 * pi * (Diameter/2)^2
+4. Menampilkan hasil perhitungan LuasPermukaan
+
+Pseudocode :
+Deklarasi
+var LP, pi, Diameter
+pi ← 22/7
+Diameter ← 14
+LP = 4 * pi * pow(Diameter/2, 2)
